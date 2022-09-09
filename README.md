@@ -1,0 +1,1 @@
+PostgreSQL queries for creating, exploring and dropping triggers.
